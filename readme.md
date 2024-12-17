@@ -1,4 +1,4 @@
-# Crash Analyzer Support
+Crash Analyzer Support
 
 This package enables your application to produce stack traces in a host that supports the
 [V8 stack trace API](https://v8.dev/docs/stack-trace-api) which can be decoded using the Microsoft Edge Crash Analyzer
